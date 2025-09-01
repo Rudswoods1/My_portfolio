@@ -32,3 +32,8 @@ FC Barcelona Schedule(Android, IOS):
   <img src="https://github.com/user-attachments/assets/7525cfaa-f40f-44fb-94ec-934a198aab45" width="500">
   <img src="https://github.com/user-attachments/assets/fe9226e5-a276-434b-ab50-404b883bc937" width="500">
 </p>
+
+Логотип QazaqWave(Astana IT University):
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2d2a30f6-d4a3-4505-a910-d5f244b59fd7" width="500">
+</p>
