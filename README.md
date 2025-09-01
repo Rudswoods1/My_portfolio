@@ -51,6 +51,16 @@ FC Barcelona Schedule(Android, IOS):
   <img src="https://github.com/user-attachments/assets/66f470a0-9375-4dd3-a92f-02e7195b3be4" width="500">
 </p>
 
+Постер на тему "Опен-сорс программы": 
+<p align="left">
+  <img width="1364" height="866" alt="Figma_p5hRkdQ7jy" src="https://github.com/user-attachments/assets/e00a8b13-aca1-495c-9b78-be5636e9da65" />
+</p>
+
+Презентация мобильного приложение канбан(Ikigai app):
+<p align="left">
+  <img width="1920" height="1080" alt="chrome_2bGvY2GlvZ" src="https://github.com/user-attachments/assets/f7b56b5e-fb1d-4507-9d83-5b801618bac8" />
+</p>
+
 Статистика опроса:
 <p align="left">
   <img src="https://github.com/user-attachments/assets/f330a6b3-2164-4e86-a359-c44945d14598" width="600">
