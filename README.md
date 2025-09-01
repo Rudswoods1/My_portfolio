@@ -42,3 +42,11 @@ FC Barcelona Schedule(Android, IOS):
 <p align="left">
   <img src="https://github.com/user-attachments/assets/8e1f22e9-e1bd-4278-8e20-c4c36ff37afc" width="500">
 </p>
+
+Презентация на тему "Культура кочевых народов Казахстана":
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/52dc4215-5613-4290-b49f-a7c0e27e2a2f" width="500">
+  <img src="https://github.com/user-attachments/assets/aec79bea-d458-4d89-8271-f70c0440c72e" width="500">
+  <img src="https://github.com/user-attachments/assets/734bec53-3b59-45c3-a0e2-a6a45f490878" width="500">
+  <img src="https://github.com/user-attachments/assets/66f470a0-9375-4dd3-a92f-02e7195b3be4" width="500">
+</p>
