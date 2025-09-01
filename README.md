@@ -24,11 +24,11 @@ FC Barcelona Schedule(Android, IOS):
 
 Сайт перевода манги:
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/a18858c6-d818-42c1-abbb-503815008ad3" width="300">
+  <img src="https://github.com/user-attachments/assets/a18858c6-d818-42c1-abbb-503815008ad3" width="500">
 </p>
 
 Презентация на тему "Шовинизм":
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/7525cfaa-f40f-44fb-94ec-934a198aab45" width="300">
-  <img src="https://github.com/user-attachments/assets/fe9226e5-a276-434b-ab50-404b883bc937" width="300">
+  <img src="https://github.com/user-attachments/assets/7525cfaa-f40f-44fb-94ec-934a198aab45" width="500">
+  <img src="https://github.com/user-attachments/assets/fe9226e5-a276-434b-ab50-404b883bc937" width="500">
 </p>
