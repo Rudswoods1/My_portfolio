@@ -21,3 +21,14 @@ FC Barcelona Schedule(Android, IOS):
   <img src="https://github.com/user-attachments/assets/67562604-5329-4443-8a32-6ee6dfbc5eb0" width="300">
   <img src="https://github.com/user-attachments/assets/4697b0f4-9c23-42cc-b571-aa15705d5426" width="300">
 </p>
+
+Сайт перевода манги:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/a18858c6-d818-42c1-abbb-503815008ad3" width="300">
+</p>
+
+Презентация на тему "Шовинизм":
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7525cfaa-f40f-44fb-94ec-934a198aab45" width="300">
+  <img src="https://github.com/user-attachments/assets/fe9226e5-a276-434b-ab50-404b883bc937" width="300">
+</p>
