@@ -3,7 +3,7 @@
 
 FC Barcelona Schedule:
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/9897fabf-1a02-48d0-9699-a565c4f9de66" width="300">
+  <img src="https://github.com/user-attachments/assets/9897fabf-1a02-48d0-9699-a565c4f9de66" width="250">
 </p>
 
 Робототехника курсы:
@@ -14,5 +14,5 @@ FC Barcelona Schedule:
 
 Курсы по шахматам(Alau Education):
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/df37b7a1-37ba-4320-b099-e37eba2c2957" width="300">
+  <img src="https://github.com/user-attachments/assets/df37b7a1-37ba-4320-b099-e37eba2c2957" width="500">
 </p>
