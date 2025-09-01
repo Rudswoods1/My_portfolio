@@ -53,5 +53,5 @@ FC Barcelona Schedule(Android, IOS):
 
 Статистика опроса:
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/f330a6b3-2164-4e86-a359-c44945d14598" width="500">
+  <img src="https://github.com/user-attachments/assets/f330a6b3-2164-4e86-a359-c44945d14598" width="600">
 </p>
