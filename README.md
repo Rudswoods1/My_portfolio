@@ -37,3 +37,8 @@ FC Barcelona Schedule(Android, IOS):
 <p align="left">
   <img src="https://github.com/user-attachments/assets/2d2a30f6-d4a3-4505-a910-d5f244b59fd7" width="300">
 </p>
+
+Пост в группу(Astana IT University):
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/8e1f22e9-e1bd-4278-8e20-c4c36ff37afc" width="500">
+</p>
