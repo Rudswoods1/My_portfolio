@@ -35,5 +35,5 @@ FC Barcelona Schedule(Android, IOS):
 
 Логотип QazaqWave(Astana IT University):
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/2d2a30f6-d4a3-4505-a910-d5f244b59fd7" width="500">
+  <img src="https://github.com/user-attachments/assets/2d2a30f6-d4a3-4505-a910-d5f244b59fd7" width="300">
 </p>
