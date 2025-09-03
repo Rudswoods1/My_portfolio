@@ -3,9 +3,6 @@
 Добро пожаловать в моё портфолио!  
 Здесь собраны мои проекты в области графического дизайна, презентаций, логотипов и других креативных задач.  
 
----<img width="358" height="727" alt="chrome_mf6frnoEvt" src="https://github.com/user-attachments/assets/340f27aa-87aa-456e-8f32-c1da693c4236" />
-
-
 ## 🤖 Робототехника (Artisan Education)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f03feab3-b076-44e1-bc10-668d87af193f" width="300">
@@ -98,7 +95,7 @@
 
 ## 📱 UI/UX мобильного приложения - Канбан (IKIGAI)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/340f27aa-87aa-456e-8f32-c1da693c4236" width="600">
+  <img src="https://github.com/user-attachments/assets/340f27aa-87aa-456e-8f32-c1da693c4236" width="500">
 </p>
 
 ---
