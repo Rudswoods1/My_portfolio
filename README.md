@@ -95,7 +95,7 @@
 
 ## 📱 UI/UX мобильного приложения - Канбан (IKIGAI)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/340f27aa-87aa-456e-8f32-c1da693c4236" width="500">
+  <img src="https://github.com/user-attachments/assets/340f27aa-87aa-456e-8f32-c1da693c4236" width="300">
 </p>
 
 ---
