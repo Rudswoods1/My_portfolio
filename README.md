@@ -100,4 +100,12 @@
 
 ---
 
+## 📝 Cайт для методологии статьи «Comparative Analysis of Security Vulnerabilities in AI-Generated Versus Human-Written Python Code: An Automated Static Analysis Approach»
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f28039d0-8c46-4763-bc96-a7a0c2db2094" width="500">
+  <img src="https://github.com/user-attachments/assets/52867db7-9e2b-49aa-94db-a0611bab02fe" width="500">
+</p>
+
+---
+
 ✨ Спасибо за просмотр моего портфолио!  
