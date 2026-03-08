@@ -108,4 +108,50 @@
 
 ---
 
+## 📝 Фотокарточка товара WildBerries, наклейки на карту 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8448a94-5dd0-437f-8709-f28471ac82c7" width="500">
+</p>
+
+---
+
+## 📝 Логотип CineLearn
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f2f73cde-740e-4ff3-bcb1-6ce240b5ad55" width="500">
+  <img src="https://github.com/user-attachments/assets/79de48fc-b4db-4dd8-8877-e4a89c0fb674" width="500">
+</p>
+
+---
+
+## 📝 Презентация для CineLearn
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a3d94cb-c0bb-4937-8aa6-392750ab7df3" width="500">
+  <img src="https://github.com/user-attachments/assets/ecf3fafe-561c-4a91-9d42-e5d508ea74f9" width="500">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76c8b798-1a18-4254-afa4-de325c2bf7de" width="500">
+  <img src="https://github.com/user-attachments/assets/83ba9125-b98e-46fe-8814-d8c777bb9e7e" width="500">
+</p>
+
+---
+
+
+## 📝 Презентация для компании "Алексея Сыровера"
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7138a2b-bdca-4a1e-b364-8d3f28e8bde2" width="500">
+  <img src="https://github.com/user-attachments/assets/91ca5016-7ab9-4f0b-9bcd-f38bcbc01531" width="500">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40c970b5-8324-4e74-9b41-b7dbe27b0660" width="500">
+  <img src="https://github.com/user-attachments/assets/50ec4d09-c4f6-4e30-9c20-eb427fa04675" width="500">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf6e2c90-bcc1-4a73-acc8-cad7c0588ae3" width="500">
+  <img src="https://github.com/user-attachments/assets/59a1387d-b607-4989-9e8d-45bf1b387943" width="500">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b385544e-bd62-4244-9287-d90ed8f1b241" width="500">
+  <img src="https://github.com/user-attachments/assets/fd12e09a-162d-4c7d-8dfd-74a6966b5f6c" width="500">
+</p>
+
 ✨ Спасибо за просмотр моего портфолио!  
